@@ -6,7 +6,7 @@ DOI: https://doi.org/10.13026/C2QQ2M
 
 # Contributors
 This repository contains research conducted as part of an Honours project at the [University of New South Wales, Sydney](https://medicalsciences.med.unsw.edu.au/):
-- Emma O'Rourke (Student, [ResearchGate]https://www.researchgate.net/profile/Emma-Orourke())
+- Emma O'Rourke (Student, [ResearchGate](https://www.researchgate.net/profile/Emma-Orourke))
 - Natasha Kumar (Supervisor, [Lab](https://medicalsciences.med.unsw.edu.au/people/dr-natasha-kumar))
 - Frederic von Wegner (Supervisor, [Projects](https://frederic-vw.github.io/))
 
