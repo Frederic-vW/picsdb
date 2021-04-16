@@ -5,7 +5,7 @@ Download and description here: [PICS database](https://physionet.org/content/pic
 DOI: https://doi.org/10.13026/C2QQ2M
 
 # Contributors
-This repository contains research conducted as part of an Honours project at the University of New South Wales, Sydney:
+This repository contains research conducted as part of an Honours project at the [University of New South Wales, Sydney](https://medicalsciences.med.unsw.edu.au/):
 - Emma O'Rourke
 - Natasha Kumar ([Lab](https://medicalsciences.med.unsw.edu.au/people/dr-natasha-kumar))
 - Frederic von Wegner ([projects](https://frederic-vw.github.io/))
