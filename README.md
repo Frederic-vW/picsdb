@@ -9,9 +9,9 @@ Source code, notebooks and example data are available at: [GitHub repository](ht
 
 # Contributors
 This repository contains research conducted as part of an Honours project at the [University of New South Wales, Sydney](https://medicalsciences.med.unsw.edu.au/):
-- Emma O'Rourke (Student, [ResearchGate](https://www.researchgate.net/profile/Emma-Orourke))
-- Frederic von Wegner (Supervisor, [Projects](https://frederic-vw.github.io/))
-- Natasha Kumar (Supervisor, [Lab](https://medicalsciences.med.unsw.edu.au/people/dr-natasha-kumar))
+- Emma O'Rourke (Student), [ResearchGate](https://www.researchgate.net/profile/Emma-Orourke))
+- Frederic von Wegner (Supervisor), other [Projects](https://frederic-vw.github.io/))
+- Natasha Kumar (Supervisor), [Lab](https://medicalsciences.med.unsw.edu.au/people/dr-natasha-kumar))
 
 # Requirements
 - a working **Python 3** installation, and the following packages:
