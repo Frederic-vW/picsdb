@@ -1,8 +1,11 @@
 # Overview
-This repo contains a collection of [Jupyter notebooks](https://jupyter.org/) written in Python3 to analyze an open cardio-respiratory data set hosted on [PhysioNet](https://physionet.org/):  
+This [repository](https://github.com/Frederic-vW/picsdb) contains a collection of [Jupyter notebooks](https://jupyter.org/) written in Python3 to analyze an open cardio-respiratory data set hosted on [PhysioNet](https://physionet.org/):  
 *Preterm Infant Cardio-Respiratory Signals Database* (picsdb)  
 Download and description here: [PICS database](https://physionet.org/content/picsdb/1.0.0/)  
 DOI: https://doi.org/10.13026/C2QQ2M
+
+# Source code
+Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)
 
 # Contributors
 This repository contains research conducted as part of an Honours project at the [University of New South Wales, Sydney](https://medicalsciences.med.unsw.edu.au/):
