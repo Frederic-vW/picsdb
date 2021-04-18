@@ -4,6 +4,17 @@ This [repository](https://github.com/Frederic-vW/picsdb) contains a collection o
 Download and description here: [PICS database](https://physionet.org/content/picsdb/1.0.0/)  
 DOI: https://doi.org/10.13026/C2QQ2M
 
+# Aim
+1. Detection of ECG and respiratory cycles, i.e. ECG R-peaks and local maxima of the respiratory waveform
+2. Compute peak-to-peak interval statistics
+3. Compute Poincaré plots for ECG/RESP and quantify their half-axes
+
+## Peak detection
+![Example waveforms](./images/ecg_resp_detection.png)
+
+## Poincaré plots:
+![Poincaré plots](./images/poincare_plots.png)
+
 # Source code
 Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)
 
