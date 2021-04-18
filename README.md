@@ -16,10 +16,13 @@ Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., .
 3. Compute Poincaré plots for ECG/RESP and quantify their half-axes
 
 ## Peak detection
-<img src="./images/ecg_resp_detection.png">Example waveforms>
+Detected ECG/RESP peaks marked by red dots, band-pass filtered signals as
+dashed blue lines.
+<img src="./images/ecg_resp_detection.png">
 
-## Poincaré plots:
-<img src="./images/poincare_plots.png">Poincaré plots>
+## Poincaré plots
+Example Poincaré plots for several segments of infant1 with fitted ellipses.
+<img src="./images/poincare_plots.png">
 
 # Source code
 Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)
