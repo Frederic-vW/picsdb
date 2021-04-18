@@ -1,3 +1,4 @@
 exports/infant*
+!exports/infant1_segment[012]*
 preterm-infant-cardio-respiratory-signals-database-1.0.0/infant*
 
