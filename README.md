@@ -16,10 +16,10 @@ Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., .
 3. Compute Poincaré plots for ECG/RESP and quantify their half-axes
 
 ## Peak detection
-<img src="./images/ecg_resp_detection.png">Example waveforms</img>
+<img src="./images/ecg_resp_detection.png">Example waveforms>
 
 ## Poincaré plots:
-<img src="./images/poincare_plots.png">Poincaré plots</img>
+<img src="./images/poincare_plots.png">Poincaré plots>
 
 # Source code
 Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)
