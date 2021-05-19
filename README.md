@@ -25,8 +25,8 @@ Example Poincaré plots for several segments of infant1 with fitted ellipses.
 <img src="./images/poincare_plots.png">
 
 # Source code
-Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)
-[![DOI](zenodo.4771562.svg)](https://zenodo.org/badge/latestdoi/266942911)
+Source code, notebooks and example data are available at: [GitHub repository](https://github.com/Frederic-vW/picsdb)  
+Please, cite this code: [![DOI](zenodo.4771562.svg)](https://zenodo.org/badge/latestdoi/266942911)
 
 # Contributors
 This repository contains research conducted as part of an Honours project at the [University of New South Wales, Sydney](https://medicalsciences.med.unsw.edu.au/):
